@@ -25,6 +25,13 @@ Antes de agarrar mi compu y ponerme a programar, nunca falta una buena taza de c
 <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> ---> **Illustrator 65%**  
  
 
+## Proyectos
+Aun no son muchos, pero te invito a que los puedas ver.
+
+[Tornillos-HS](https://joaquincaviltelli.github.io/Tornillos-HS)   
+Es una herramienta para una empresa que se les dificultaba embolsar tornillos por las cantidades que el cliente solicitaba.  
+
+
 <!---
 JoaquinCaviltelli/JoaquinCaviltelli is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
