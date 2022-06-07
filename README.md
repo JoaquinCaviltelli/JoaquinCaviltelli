@@ -34,7 +34,8 @@ Es una herramienta para una empresa que se les dificultaba embolsar tornillos po
 [Optimizador de cortes](https://joaquincaviltelli.github.io/agrupador-de-cortes)  
 Te permite subir un listado de cortes en formato .xlsx o .xls (excel) y va a optimizar segun el largo del perfil.
 
-
+[Lista de Tareas](https://joaquincaviltelli.github.io/To-do-List)  
+Agrega tus tareas diarias, se guardaran en localstorage
 
 <!---
 JoaquinCaviltelli/JoaquinCaviltelli is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
