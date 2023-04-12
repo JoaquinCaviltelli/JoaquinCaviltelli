@@ -3,7 +3,9 @@
 ## Te cuento sobre mi
 
 Hace mas de dos años que empece estudiando de forma autodidacta en el área del Frontend. Me gusta todo lo relacionado con el diseño y la creación de sitios y aplicaciones web. 
+
 Me encanta aprender cosas nuevas y siempre estoy buscando formas de mejorar mis habilidades y conocimientos en el mundo del desarrollo web.
+
 Nunca puede faltar una buena taza de cafe☕ a la hora de ponerme a proyectar y programar
 
 
