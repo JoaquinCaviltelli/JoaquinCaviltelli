@@ -1,9 +1,11 @@
 # 👋 Hola! Mi nombre es Joaquin 
 
 ## Te cuento sobre mi
-Hace mas de dos años que empece incursionando en el mundo del desarrollo web, a lo largo de este tiempo me fui capacitando mas puntualmente del lado **Frontend**
 
-Antes de agarrar mi compu y ponerme a programar, nunca falta una buena taza de cafe☕
+Hace mas de dos años que empece estudiando de forma autodidacta en el área del Frontend. Me gusta todo lo relacionado con el diseño y la creación de sitios y aplicaciones web. 
+Me encanta aprender cosas nuevas y siempre estoy buscando formas de mejorar mis habilidades y conocimientos en el mundo del desarrollo web.
+Nunca puede faltar una buena taza de cafe☕ a la hora de ponerme a proyectar y programar
+
 
 ## Mis conocimientos 
 
@@ -25,7 +27,7 @@ Antes de agarrar mi compu y ponerme a programar, nunca falta una buena taza de c
 <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> ---> **Figma 85%**  
 <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> ---> **Illustrator 65%**  
  
-
+ 
 ## Proyectos
 Aun no son muchos, pero te invito a que los puedas ver.
 
