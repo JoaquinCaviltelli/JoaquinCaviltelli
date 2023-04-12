@@ -15,9 +15,11 @@ Antes de agarrar mi compu y ponerme a programar, nunca falta una buena taza de c
 ### Tecnologias
 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> ---> **Vue 70%**  
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> ---> **React 35% (aprendizaje actual)**  
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> ---> **React 70% (aprendizaje actual)**  
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> ---> **Bootstrap 65%**  
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> ---> **Sass 70%**  
+**Taildwind 75%**  
+<img src="[https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg](https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Tailwind_CSS_Logo.svg/1024px-Tailwind_CSS_Logo.svg.png)" alt="Taildwind" width="40" height="40"/> ---> **Taildwind 75%** 
 
 ### Herramientas
 
